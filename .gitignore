@@ -1,0 +1,20 @@
+# Python build artifacts
+__pycache__/
+*.pyc
+
+# Build script intermediates (kept locally, not pushed)
+_screenshots/
+_products.json
+_categories.json
+_options.json
+build.py
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Local test files
+*.zip
+*.log
